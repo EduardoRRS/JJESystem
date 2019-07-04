@@ -1,0 +1,14 @@
+C:\JJESystem\JJESolution\JJE\bin\Debug\JJE.exe.config
+C:\JJESystem\JJESolution\JJE\bin\Debug\JJE.exe
+C:\JJESystem\JJESolution\JJE\bin\Debug\JJE.pdb
+C:\JJESystem\JJESolution\JJE\bin\Debug\EntityFramework.dll
+C:\JJESystem\JJESolution\JJE\bin\Debug\EntityFramework.SqlServer.dll
+C:\JJESystem\JJESolution\JJE\bin\Debug\EntityFramework.xml
+C:\JJESystem\JJESolution\JJE\bin\Debug\EntityFramework.SqlServer.xml
+C:\JJESystem\JJESolution\JJE\obj\Debug\JJE.csprojResolveAssemblyReference.cache
+C:\JJESystem\JJESolution\JJE\obj\Debug\JJE.Properties.Resources.resources
+C:\JJESystem\JJESolution\JJE\obj\Debug\JJE.csproj.GenerateResource.cache
+C:\JJESystem\JJESolution\JJE\obj\Debug\JJE.csproj.CoreCompileInputs.cache
+C:\JJESystem\JJESolution\JJE\obj\Debug\JJE.csproj.CopyComplete
+C:\JJESystem\JJESolution\JJE\obj\Debug\JJE.exe
+C:\JJESystem\JJESolution\JJE\obj\Debug\JJE.pdb
