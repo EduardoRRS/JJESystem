@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="ModelContext">
+    <EntitySetMapping Name="PessoaSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model.Pessoa)">
+        <MappingFragment StoreEntitySet="PessoaSet">
+          <ScalarProperty Name="Telefone" ColumnName="Telefone" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nome" ColumnName="Nome" />
+          <ScalarProperty Name="Data_Cadastro" ColumnName="Data_Cadastro" />
+          <ScalarProperty Name="Endereco" ColumnName="Endereco" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
